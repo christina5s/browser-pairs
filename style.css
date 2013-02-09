@@ -176,7 +176,7 @@ body {
 
 /* The #gameComplete element holds the screen that shows when you finish the game */
 #gameComplete {
-  background: url(./images/end.png) center 0 no-repeat;
+  background: url(http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/c8/56/c8567d5f5fc44cebeb3c7546acea1bd1.jpg) center 0 no-repeat;
   text-align: center;
   position: absolute;
   margin: 10px;
