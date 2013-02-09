@@ -100,9 +100,9 @@ body {
    hosted anyhwere on the internet by using its url in the "url()" rule. */
 .ie {background: url(http://www.nbcuniversalstore.com/img/product/resized/480/00290933-475480_catl_600.jpg) no-repeat; background-size: contain;}
 .fx {background: url(http://images.fanpop.com/images/image_uploads/Shawn-Spencer-usa-network-326072_300_440.jpg) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
+.cr {background: url(http://images.fanpop.com/images/image_uploads/Burton--Gus--Guster-tv-links-325910_300_440.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://seriesandtv.com/wp-content/uploads/2012/02/NUP_103686_1010.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://static.tvguide.com/MediaBin/Galleries/Shows/M_R/Pq_Pz/Psych/season2/psych77.jpg) no-repeat; background-size: contain;}
 .ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
 .tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
 .fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
