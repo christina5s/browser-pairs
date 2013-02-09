@@ -98,8 +98,8 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
+.ie {background: url(http://www.nbcuniversalstore.com/img/product/resized/480/00290933-475480_catl_600.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://images.fanpop.com/images/image_uploads/Shawn-Spencer-usa-network-326072_300_440.jpg) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
 .op {background: url(./images/op.png) no-repeat; background-size: contain;}
